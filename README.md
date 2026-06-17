@@ -13,6 +13,7 @@
 ## 🌐 Live Preview
 
 ![VisiCity Preview](./assets/preview.gif)
+
 > _Hebrew RTL interface · Neo-Brutalism design system · Mobile-first responsive layout_
 
 <br>
